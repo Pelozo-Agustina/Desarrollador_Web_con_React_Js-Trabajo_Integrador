@@ -33,7 +33,7 @@ function App() {
 
 					{/* Agregar nueva tarea */}
 					<div className='add-Task'>
-						<h3>Agregar Tarea</h3>
+						<h3>Nueva Tarea</h3>
 						<TaskAdd handleNewTask={handleNewTask} />
 					</div>
 
